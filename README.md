@@ -1,6 +1,6 @@
 <h1 align="center">Fotos</h1>
 
-<img src='img/Sem título (1).gif' alt='Fotos' style='width: 100%;'>
+<img src='img/Sem título (1).gif' alt='Fotos' style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
 
 >Este repositório contém o código-fonte e os recursos para o Fotos, um site de fotografia dedicado a capturar e exibir imagens visualmente envolventes. 
 
